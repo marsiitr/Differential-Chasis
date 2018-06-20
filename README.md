@@ -8,7 +8,7 @@ In an electronic device, the chassis consists of a frame or other internal suppo
 A differential wheeled robot is a mobile robot whose movement is based on two separately driven wheels placed on either side of the robot body. It can thus change its direction by varying the relative rate of rotation of its wheels and hence does not require an additional steering motion.
 If both the wheels are driven in the same direction and speed, the robot will go in a straight line. If both wheels are turned with equal speed in opposite directions, the robot will rotate about the central point of the axis. Otherwise, depending on the speed of rotation and its direction, the center of rotation may fall anywhere on the line defined by the two contact points of the tires. While the robot is traveling in a straight line, the center of rotation is an infinite distance from the robot. Since the direction of the robot is dependent on the rate and direction of rotation of the two driven wheels, these quantities should be sensed and controlled precisely.
 A differentially steered robot is similar to the differential gears used in automobiles in that both the wheels can have different rates of rotations, but unlike the differential gearing system, a differentially steered system will have both the wheels powered. Differential wheeled robots are used extensively in robotics, since their motion is easy to program and can be well controlled. Virtually all consumer robots on the market today use differential steering primarily for its low cost and simplicity.
-![differential](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/176dd7b3289267d8c693fb16f0d6fea480b5fad5/2-Figure2-1.png)
+![differential](https://upload.wikimedia.org/wikipedia/commons/d/d3/Tanklike.png)
 
 # HARDWARE
 assembly of the chassis for the bot using:
@@ -42,14 +42,30 @@ The bot is made up of aluminium channels as the supporting framework on which 2 
 The motion of the bot is then programmed and controlled using arduino which is mounted on the chassis connected to the encoder. thus encoder gets the input accordingly and rotates the gear ar per the requirement which then rotates the gear connected to motor and the wheel. Therefore each wheel can have a different relative rate of rotation which is responsible for the change in direction of the bot.
 Another wheel called castor wheel is mounted at the front of the bot. This wheel is kept free and can move in any direction and act as an supporting wheel. 
 
-## WORK LEFT:
+## WORK LEFT
 
--Mounting of 3D printed gears on both sides of bot.
+- Mounting of 3D printed gears on both sides of bot.
 
--Mounting of Arduino and electronics work.
+- Mounting of Arduino and electronics work.
 
-# TEAM MEMBERS:
+# TEAM MEMBERS
 
--SOURABH SONKER
+- [RAHUL GUPTA](https://github.com/rg0699)
 
--RAHUL GUPTA
+- [SOURABH SONKER](https://www.facebook.com/sourabh.sonker.908?ref=br_rs)
+
+# MENTORS
+
+- [ALOK GUPTA](https://www.facebook.com/profile.php?id=100012330910173&ref=br_rs)
+
+- [PRASHANT KUMAR](https://www.facebook.com/profile.php?id=100011588744611&ref=br_rs)
+
+# SPECIAL CREDITS
+
+- [NABARUN PAL](https://github.com/palnabarun)
+
+- [SHUBHANSHU AGARWAL](https://github.com/Shubhanshu07)
+
+# PHOTOS
+![chassis](https://scontent.fdel3-1.fna.fbcdn.net/v/t1.0-9/33663464_1249738391824770_7281367411071123456_n.jpg?_nc_cat=0&oh=d8915f0c49d904708e837e5d72c8445d&oe=5BB3FE93)
+
